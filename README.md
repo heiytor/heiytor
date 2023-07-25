@@ -23,12 +23,12 @@
 
 I'm profoundly passionate about low-level programming, exploring the depths of C, C++, Rust, Go, Python, and Assembly. Furthermore, I have a deep-rooted fascination with the mathematics that underpin these technologies, always striving to understand the logic and beauty that lie beneath the surface.
 
-## Current Focus 🎯
+## I'm currently 🎯
 
-- Working on: An [interpreted programming language](https://github.com/heiytor/mari-programming-language) and a [SQL database](https://github.com/heiytor/jiffydb).
-- Learning: Assembly x86-64.
-- Interested in collaborating on: Open Source projects.
-- Can assist with: Insights related to low-level programming, or guidance on C, C++, Rust, Go, Python, JavaScript.
+- working on: An [interpreted programming language](https://github.com/heiytor/mari-programming-language) and a [SQL database](https://github.com/heiytor/jiffydb).
+- learning: Assembly x86-64.
+- interested in collaborating on: Open Source projects.
+- can assist with: Insights related to low-level programming, or guidance on C, C++, Rust, Go, Python, JavaScript.
 
 ## Connect with me 🌐
 
