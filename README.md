@@ -1,40 +1,34 @@
-### Hello World! I'm Heitor 👋
+<h1 align="center">Hi there! I'm Heitor 👋</h1>
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assembly)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+I'm a 20-year-old programmer with a passion for mathematics and game programming. I love delving into the inner workings of things to understand how they tick.
 
-I'm profoundly passionate about low-level programming, exploring the depths of C, C++, Rust, Go, Python, and Assembly. Furthermore, I have a deep-rooted fascination with the mathematics that underpin these technologies, always striving to understand the logic and beauty that lie beneath the surface.
+<details>
+  <summary><b>Languages I Enjoy</b></summary>
 
-## I'm currently 🎯
+  ![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c)
+  ![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B)
+  ![Rust](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust)
+  ![Go](https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go)
+</details>
 
-- working on: An [interpreted programming language](https://github.com/heiytor/mari-programming-language) and a [SQL database](https://github.com/heiytor/jiffydb).
-- learning: Assembly x86-64.
-- interested in collaborating on: Open Source projects.
-- can assist with: Insights related to low-level programming, or guidance on C, C++, Rust, Go, Python, JavaScript.
+<h3>Contact Me</h2>
 
-## Connect with me 🌐
+<a href="https://x.com/heiytor" alt="Twitter"><img src="https://img.shields.io/badge/--333333?style=flat&logo=x&link=https://x.com/heiytor"/></a>
+<a href="mailto:heitor.danilo@icloud.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=icloud&link=mailto:heitor.danilo@icloud.com" /></a>
+<a href="https://discord.gg/heiytor" alt="Discord"><img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&link=https://discord.gg/heiytor"/></a>
+<a href="https://www.linkedin.com/in/heitor-danilo-3166a4229/" alt="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/heitor-danilo-3166a4229/"/></a>
+  
+<h1 align="center">GitHub Stats</h1>
 
-Here's where else you can find me:
-
-- Email: [heitor.danilo@icloud.com](mailto:heitor.danilo@icloud.co)
-- [Website]() - UNDER CONSTRUCTION
-- [LinkedIn](www.linkedin.com/in/heitor-danilo-3166a4229)
-- [Twitter](https://twitter.com/heiytor)
+<div align="center">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=heiytor&theme=react&hide_border=true"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heiytor&layout=compact&theme=react&count_private=true&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
