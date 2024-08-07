@@ -16,8 +16,6 @@ I'm a 20-year-old programmer with a passion for mathematics. I love delving into
 <a href="mailto:heitor.danilo@icloud.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=icloud&link=mailto:heitor.danilo@icloud.com" /></a>
 <a href="https://discord.gg/heiytor" alt="Discord"><img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&link=https://discord.gg/heiytor"/></a>
 <a href="https://www.linkedin.com/in/heitor-danilo-3166a4229/" alt="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/heitor-danilo-3166a4229/"/></a>
-  
-<h1 align="center">GitHub Stats</h1>
 
 <div align="center">
   <table style="margin: 0 auto;">
