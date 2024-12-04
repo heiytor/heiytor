@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Heitor 👋</h1>
 
-I'm a 20-year-old programmer with a passion for mathematics. I love delving into the inner workings of things to understand how they tick.
+I'm a 21-year-old programmer with a passion for mathematics. I love delving into the inner workings of things to understand how they tick.
 
 <details>
   <summary><b>Languages I Enjoy</b></summary>
